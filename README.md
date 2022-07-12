@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there <img src="./images/drum.webp"/ align="center" width="66"></h1>
 My name is Ferdinand Lucas, I'm a full-stack developer based in London, with a mind set on pursuing the depth of web development. Working mostly with React, but constantly learning new technologies and exploring new projects. I am bilingual in German and English. Additionally, I am an Digital Marketing Specialist, full-stack engineer, graphic designer, art director, web3 enthusiast, project manager, and Artist. My passion is turning ideas into reality. I am creative, positive, proactive, and always up for new challenges.
-<a href="https://www.linkedin.com/in/robert-rybczynski-a86187a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> <a HREF="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%72%6F%62%2E%72%79%62%34%40%67%6D%61%69%6C%2E%63%6F%6D"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/robert-rybczynski-a86187a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> <a HREF="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%72%6F%62%2E%72%79%62%34%40%67%6D%61%69%6C%2E%63%6F%6D">
 <div align="center">
 <img src="./images/techno.gif" width="70"/>
   <h1>Technologies</h1>
